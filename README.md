@@ -141,11 +141,10 @@ const raul = {
 
 <div align="center">
 
-### 💙 Thanks for visiting! Let's build something amazing together! 🚀
+### Thanks for visiting! Let's build something amazing together! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raulcepin&color=58A6FF&style=flat-square&label=Profile+Views)
 
-⭐️ From [raulcepin](https://github.com/raulcepin) with 💖
 
 </div>
 
